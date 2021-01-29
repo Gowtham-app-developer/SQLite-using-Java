@@ -1,3 +1,3 @@
 # SQLite-using-Java
 
-CRUD Operations in SQLite
+CRUD Operations using SQLite
